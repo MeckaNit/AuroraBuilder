@@ -2,7 +2,7 @@
 <index>
   <info>
     <name>Homebrew</name>
-    <update version="1.0.0">
+    <update version="1.0.1">
       <file name="core.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/main/core.index" />
     </update>
   </info>

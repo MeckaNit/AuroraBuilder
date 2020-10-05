@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<elements>
+  <info>
+    <update version="0.0.1">
+      <file name="sources.xml" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core/sources.xml" />
+    </update>
+  </info>
+  <element name="Abel's Homebrew" type="Source" source="Core" id="ID_AJL_SOURCE_">
+    <description>
+      <![CDATA[<p><strong>Everything that is included in personal campaigns.</strong></p><p>Pulled from both DND wiki and the real world.</p>]]>
+    </description>
+    <setters>
+      <set name="abbreviation">HOME</set>
+      <set name="author" abbreviation="AJL">Abel Joan Lagonell</set>
+      <set name="official">false</set>
+      <set name="core">false</set>
+      <set name="release">2020105</set>
+    </setters>
+  </element>
+</elements>

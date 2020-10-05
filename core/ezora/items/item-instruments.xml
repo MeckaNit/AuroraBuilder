@@ -4,12 +4,12 @@
     <name>Instruments</name>
     <description></description>
     <author>Abel Lagonell</author>
-    <update version="0.0.1">
+    <update version="0.0.2">
       <file name="items-instrument.xml" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index/ezora/items/items-instruments.xml" />
     </update>
   </info>
 
-  <element name="Medolica" type="Item" source="Real World" id="ID_AL_RW_INSTRUMENT_MEDOLICA">
+  <element name="Medolica" type="Item" source="Homebrew" id="ID_AJL_HOME_INSTRUMENT_MEDOLICA">
     <supports>ID_INTERNAL_TOOL_MUSICAL_INSTRUMENT</supports>
     <description>
       <p>If you have proficiency with the medolica, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus.</p>

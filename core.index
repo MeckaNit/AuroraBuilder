@@ -3,7 +3,7 @@
   <info>
     <name>Homebrew</name>
     <update version="1.0.0">
-      <file name="core.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index" />
+      <file name="core.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/main/core.index" />
     </update>
   </info>
   <files>

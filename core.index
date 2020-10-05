@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Homebrew</name>
+    <update version="1.0.0">
+      <file name="core.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index" />
+    </update>
+  </info>
+  <files>
+    <file name="ezora.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index/ezora.index" />
+    <file name="champions.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index/champions.index" />
+  </files>
+</index>

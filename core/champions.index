@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Champions</name>
+    <update version="1.0.0">
+      <file name="champions.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index/champions.index" />
+    </update>
+  </info>
+  <files>
+    
+    <!--Classes-->
+    <file name="class-godslayer.xml" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index/champions/classes/class-godslayer.xml" />
+
+  </files>
+</index>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <name>Ezora</name>
+    <update version="1.0.0">
+      <file name="ezora.index" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index/ezora.index" />
+    </update>
+  </info>
+  <files>
+    
+    <!--Items-->
+    <file name="item-instruments.xml" url="https://raw.githubusercontent.com/MeckaNit/AuroraBuilder/master/core.index/ezora/items/items-instruments.xml" />
+    
+    <!--Subclasses-->
+    
+    
+  </files>
+</index>

@@ -7,46 +7,41 @@
     </update>
   </info>
 
-  <element name="Fighter" type="Class" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FIGHTER">
+  <element name="Godslayer" type="Class" source="AJL" id="ID_AJL_HOME_CLASS_GODSLAYER">
     <description>
-      <p>A human in clanging plate armor holds her shield before her as she runs toward the massed goblins. An elf behind her, clad in studded leather armor, peppers the goblins with arrows loosed from his exquisite bow. The half-orc nearby shouts orders, helping the two combatants coordinate their assault to the best advantage.</p>
-      <p class="indent">A dwarf in chain mail interposes his shield between the ogre’s club and his companion, knocking the deadly blow aside. His companion, a half-elf in scale armor, swings two scimitars in a blinding whirl as she circles the ogre, looking for a blind spot in its defenses.</p>
-      <p class="indent">A gladiator fights for sport in an arena, a master with his trident and net, skilled at toppling foes and moving them around for the crowd’s delight—and his own tactical advantage. His opponent’s sword flares with blue light an instant before she sends lightning flashing forth to smite him.</p>
-      <p class="indent">All of these heroes are fighters, perhaps the most diverse class of characters in the worlds of Dungeons &amp; Dragons. Questing knights, conquering overlords, royal champions, elite foot soldiers, hardened mercenaries, and bandit kings—as fighters, they all share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. And they are well acquainted with death, both meting it out and staring it defiantly in the face.</p>
-      <h4>WELL-ROUNDED SPECIALISTS</h4>
-      <p>Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike.</p>
-      <h4>TRAINED FOR DANGER</h4>
-      <p>Not every member of the city watch, the village militia, or the queen’s army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.</p>
-      <p class="indent">Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards—few fighters in the city watch have the opportunity to discover a magic flame tongue sword, for example.</p>
-      <h4>CREATING A FIGHTER</h4>
-      <p>As you build your fighter, think about two related elements of your character’s background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.</p>
-      <p class="indent">You might have enjoyed formal training in a noble’s army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught—unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions—the only things that stand between you and death’s embrace.</p>
+      <p>He called to charge, the foolish lesser deity. His clerics and paladins charged. There is a whinny from the sudden steeds before several fall flat on their faces or toss off their rider. Their legs had been removed from right under then. A series of large blades point to the deity, who is beginning to grasp the urgency of the situation. The wielders of the winning hand said only three words.</p>
+      <p class="indent"><i>"No More Gods"</i></p>
+      <h4>Path of Blasphemy</h4>
+      <p>The godslayers were once all servants of the gods, similar to Paladins. But, unlike the oathkeepers, they designed to seek out and destroy other divine beings instead. They did not hunt your simple fiends, no. They hunted the devils in charge. Godslayers of evil deities were known to have stripped the wings off angels and silence their seraphic voices. These wars were unceasing, and the godslayers were always at the forefront for their hirer. However, soon, the brunt of the task came to bear down on their shoulders. They were now being forced to just kill one another. Many, in having killed for their gods, were made scapegoats to damning curses or worse. They could not longer rejoin the world as they once had, and for many, this was their death sentence. People saw them to be heretics. Their own eyes opened and saw the gods forsake them. With renewed rage and purpose, they no longer would shackle themselves to divinity like a dog. No, they would go and destroy those who dared use them and then toss them away like pawns.</p>
+      <h4>CREATING A GODSLAYER</h4>
+      <p>What path did your character take to reach this forsaken status? Were they born cursed? Did they commit sacrilege and get cursed? Did a religious body hex them for an act the followers found abominable? Were they once devout knights of an order, only to be ousted by corruption and underhanded means?</p>
+      <p>Or, were they disillusioned with fealty to deities that played with human lives like toys?</p>
       <h5>QUICK BUILD</h5>
-      <p>You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution. Second, choose the soldier background.</p>
+      <p>You can make a godslayer quickly by following these suggestions: First, either Constitution or Strength should be your highest ability score, followed by Wisdom. Second, choose the outlander background.</p>
       <h3>CLASS FEATURES</h3>
-      <p>As a fighter, you gain the following class features.</p>
+      <p>As a Godslayer, you gain the following class features.</p>
       <h5>HIT POINTS</h5>
       <ul class="unstyled">
         <li>
-          <strong>Hit Dice:</strong> 1d10 per fighter level
+          <strong>Hit Dice:</strong> 1d12 per godslayer level
         </li>
         <li>
-          <strong>Hit Points at 1st Level:</strong> 10 + your Constitution modifier
+          <strong>Hit Points at 1st Level:</strong> 12 + your Constitution modifier
         </li>
         <li>
-          <strong>Hit Points at Higher Levels:</strong> 1d10 (or 6) + your Constitution modifier per fighter level after 1st
+          <strong>Hit Points at Higher Levels:</strong> 1d12 (or 7) + your Constitution modifier per godslayer level after 1st
         </li>
       </ul>
       <h5>PROFICIENCIES</h5>
       <ul class="unstyled mb">
         <li>
-          <strong>Armor:</strong> All armor, shields
+          <strong>Armor:</strong> none
         </li>
         <li>
           <strong>Weapons:</strong> Simple weapons, martial weapons
         </li>
         <li>
-          <strong>Tools:</strong> None
+          <strong>Tools:</strong> One musical instrument of your choice
         </li>
       </ul>
       <ul class="unstyled">
@@ -54,255 +49,355 @@
           <strong>Saving Throws:</strong> Strength, Constitution
         </li>
         <li>
-          <strong>Skills:</strong> Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+          <strong>Skills:</strong> Choose three skills from Acrobatics, Athletics, Intimidation, Perception, and Survival
         </li>
       </ul>
       <h5>EQUIPMENT</h5>
       <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
       <ul>
         <li>
-          <i>(a)</i> chain mail or <i>(b)</i> leather armor, longbow, and 20 arrows
+          <i>(a)</i> One Martial Weapon or <i>(b)</i> Two Simple Weapons
         </li>
         <li>
-          <i>(a)</i> a martial weapon and a shield or <i>(b)</i> two martial weapons
+          <i>(a)</i> a relic of your former faith or <i>(b)</i> Explorer's Pack
         </li>
         <li>
-          <i>(a)</i> a light crossbow and 20 bolts or <i>(b)</i> two handaxes
-        </li>
-        <li>
-          <i>(a)</i> a dungeoneer’s pack or <i>(b)</i> an explorer’s pack
+          If you are using starting wealth, you have 1d4 x 10 gp in funds.
         </li>
       </ul>
-      <h5 class="caption">THE FIGHTER</h5>
+      <h5 class="caption">THE GODSLAYER</h5>
       <table class="class-features">
         <thead>
           <tr>
             <td class="col-5">Level</td>
             <td class="left">Features</td>
+            <td class="middle">Damage Reduction</td>
           </tr>
         </thead>
         <tr>
           <td> 1st</td>
-          <td class="left">Fighting Style, Second Wind</td>
+          <td class="left">Tempered Body, Forsaken</td>
+          <td class="middle">-</td>
         </tr>
         <tr>
           <td> 2nd</td>
-          <td class="left">Action Surge (one use)</td>
+          <td class="left">Indomitable Will</td>
+          <td class="middle">-</td>
         </tr>
         <tr>
           <td> 3rd</td>
-          <td class="left">Martial Archetype</td>
+          <td class="left">Deicidal Path, Adding Scars</td>
+          <td class="middle">3</td>
         </tr>
         <tr>
           <td> 4th</td>
           <td class="left">Ability Score Improvement</td>
+          <td class="middle">4</td>
         </tr>
         <tr>
           <td> 5th</td>
-          <td class="left">Extra Attack</td>
+          <td class="left">Rebuke, Extra Attack</td>
+          <td class="middle">5</td>
         </tr>
         <tr>
           <td> 6th</td>
-          <td class="left">Ability Score Improvement</td>
+          <td class="left">Ability Score Improvement, Indomitable Will Improvement</td>
+          <td class="middle">6</td>
         </tr>
         <tr>
           <td> 7th</td>
-          <td class="left">Martial Archetype feature</td>
+          <td class="left">Visionary</td>
+          <td class="middle">7</td>
         </tr>
         <tr>
           <td> 8th</td>
           <td class="left">Ability Score Improvement</td>
+          <td class="middle">8</td>
         </tr>
         <tr>
           <td> 9th</td>
-          <td class="left">Indomitable (one use)</td>
+          <td class="left">Deicidal Path feature</td>
+          <td class="middle">9</td>
         </tr>
         <tr>
           <td>10th</td>
-          <td class="left">Martial Archetype feature</td>
+          <td class="left">Survivor</td>
+          <td class="middle">10</td>
         </tr>
         <tr>
           <td>11th</td>
-          <td class="left">Extra Attack (2)</td>
+          <td class="left">Apostatic Weapon</td>
+          <td class="middle">11</td>
         </tr>
         <tr>
           <td>12th</td>
           <td class="left">Ability Score Improvement</td>
+          <td class="middle">12</td>
         </tr>
         <tr>
           <td>13th</td>
-          <td class="left">Indomitable (two uses)</td>
+          <td class="left">Deicidal Path feature</td>
+          <td class="middle">13</td>
         </tr>
         <tr>
           <td>14th</td>
-          <td class="left">Ability Score Improvement</td>
+          <td class="left">Surge, Extra Attack (2)</td>
+          <td class="middle">14</td>
         </tr>
         <tr>
           <td>15th</td>
-          <td class="left">Martial Archetype feature</td>
+          <td class="left">Persevere</td>
+          <td class="middle">15</td>
         </tr>
         <tr>
           <td>16th</td>
           <td class="left">Ability Score Improvement</td>
+          <td class="middle">16</td>
         </tr>
         <tr>
           <td>17th</td>
-          <td class="left">Action Surge (two uses), Indomitable (three uses)</td>
+          <td class="left">Transparency</td>
+          <td class="middle">17</td>
         </tr>
         <tr>
           <td>18th</td>
-          <td class="left">Martial Archetype feature</td>
+          <td class="left">Deicidal Path feature</td>
+          <td class="middle">18</td>
         </tr>
         <tr>
           <td>19th</td>
           <td class="left">Ability Score Improvement</td>
+          <td class="middle">19</td>
         </tr>
         <tr>
           <td>20th</td>
-          <td class="left">Extra Attack (3)</td>
+          <td class="left">	Ascended Battler</td>
+          <td class="middle">20</td>
         </tr>
       </table>
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE" />
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_SECONDWIND" />
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_ACTIONSURGE" />
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_MARTIALARCHETYPE" />
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_FIGHTER" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_TEMPEREDBODY" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_FORSAKEN" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_INDOMITABLEWILL" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_DECIDALPATH" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_ADDINGSCARS" />
+      <div element="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_GODSLAYER" />
       <div element="ID_WOTC_PHB_CLASS_FEATURE_EXTRAATTACK" />
-      <div element="ID_WOTC_PHB_CLASS_FEATURE_INDOMITABLE" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_REBUKE" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_VISIONARY" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_SURVIVOR" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_APOSTATICWEAPON" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_SURGE" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_PERSEVERE" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_TRANSPARENCY" />
+      <div element="ID_AJL_HOME_CLASS_FEATURE_ASCENDEDBATTLER" />
     </description>
     <sheet display="false">
-      <description>A master of martial combat, skilled with a variety of weapons and armor.</description>
+      <description>A master of martial combat, with only one goal in mind.</description>
     </sheet>
     <setters>
-      <set name="short">A master of martial combat, skilled with a variety of weapons and armor.</set>
-      <set name="hd">d10</set>
+      <set name="short">A master of martial combat, with only one goal in mind.</set>
+      <set name="hd">d12</set>
     </setters>
     <rules>
-      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_HEAVY_ARMOR" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELDS" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_STRENGTH" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <select type="Proficiency" name="Skill Proficiency (Fighter)" supports="Skill,Fighter" number="2" requirements="!ID_WOTC_PHB_MULTICLASS_FIGHTER"/>
-      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE" level="1"/>
-      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_SECONDWIND" level="1"/>
-      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ACTIONSURGE" level="2"/>
-      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_MARTIALARCHETYPE" level="3"/>
-      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_FIGHTER" level="4"/>
-      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_EXTRAATTACK" level="5"/>
-      <grant type="Class Feature" id="ID_WOTC_PHB_CLASS_FEATURE_INDOMITABLE" level="9"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" requirements="!ID_AJL_HOME_CLASS_GODSLAYER"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_STRENGTH" requirements="!ID_AJL_HOME_CLASS_GODSLAYER"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" requirements="!ID_AJL_HOME_CLASS_GODSLAYER"/>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INSIGHT" requirements="!ID_AJL_HOME_CLASS_GODSLAYER"/> />
+      <select type="Proficiency" name="Skill Proficiency (Godslayer)" supports="Skill,Fighter" number="3" requirements="!ID_AJL_HOME_CLASS_GODSLAYER"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_TEMPEREDBODY" level="1"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_FORSAKEN" level="1"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_INDOMITABLEWILL" level="2"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_DECIDALPATH" level="3"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_ADDINGSCARS" level="3"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_GODSLAYER" level="4"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_EXTRAATTACK" level="5"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_REBUKE" level="7"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_VISIONARY" level="7"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_SURVIVOR" level="10"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_APOSTATICWEAPON" level="11"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_SURGE" level="14"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_PERSEVERE" level="15"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_TRANSPARENCY" level="17"/>
+      <grant type="Class Feature" id="ID_AJL_HOME_CLASS_FEATURE_ASCENDEDBATTLER" level="20"/>
     </rules>
-    <multiclass id="ID_WOTC_PHB_MULTICLASS_FIGHTER">
-      <prerequisite>Strength 13 or Dexterity 13</prerequisite>
-      <requirements>([str:13]||[dex:13])</requirements>
+    <multiclass id="ID_AJL_HOME_CLASS_GODSLAYER">
+      <prerequisite>Strength 14 or Constitution 15</prerequisite>
+      <requirements>([str:13]||[con:13])</requirements>
       <setters>
-        <set name="multiclass proficiencies">Light armor, medium armor, shields, simple weapons, martial weapons</set>
+        <set name="multiclass proficiencies">Martial weapons, Strength Saving throw</set>
       </setters>
       <rules>
         <grant type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS" />
-        <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
-        <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" />
-        <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELDS" />
-        <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" />
         <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" />
+        <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_STRENGTH"/>
       </rules>
     </multiclass>
   </element>
-  <element name="Fighting Style" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_FIGHTINGSTYLE">
+  <element name="Forsaken" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_FORSAKEN">
     <description>
-      <p>You adopt a particular style of fighting as your specialty. Choose one of the following options. You can’t take a Fighting Style option more than once, even if you later get to choose again.</p>
-      <h5 class="caption">ARCHERY</h5>
-      <p>You gain a +2 bonus to attack rolls you make with ranged weapons.</p>
-      <h5 class="caption">DEFENSE</h5>
-      <p>While you are wearing armor, you gain a +1 bonus to AC.</p>
-      <h5 class="caption">DUELING</h5>
-      <p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>
-      <h5 class="caption">GREAT WEAPON FIGHTING</h5>
-      <p>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.</p>
-      <h5 class="caption">PROTECTION</h5>
-      <p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>
-      <h5 class="caption">TWO-WEAPON FIGHTING</h5>
-      <p>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.</p>
+      <p>Starting at 1st level, the power of the divine is behind you. You turn your back on its wooing words and embraces, lies to heal your wounds with paltry placation.</p>
     </description>
+    <sheet>
+      <description>You can no longer be healed by means of spells. You become immune to being charmed and you gain proficiency in the Insight skill.</description>
+    </sheet>
+  </element>
+  <element name="Tempered Body" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_TEMPEREDBODY">
+    <description>
+      <p>Starting at 1st level, your body's power emanates from the beatings you have taken in the name of your cause. The scars show the abuse of the divine, and your body is proof your own power overcame it. Your body is your greatest defiance in the face of gods.</p>
+    </description>
+    <sheet>
+      <description>While unarmored, your Armor Class is equal to 10 + your Strength Modifier + you Constitution Modifier. You can still use a shield and get this benefit.</description>
+    </sheet>
     <rules>
-      <select type="Class Feature" name="Fighting Style" supports="Fighting Style, Fighter" level="1"/>
+      <stat name="ac:unarmored defense godslayer:base" value="10" />
+      <stat name="ac:unarmored defense godslayer:dexterity" value="strength:modifier" />
+      <stat name="ac:unarmored defense godslayer:constitution" value="constitution:modifier" />
+
+      <stat name="ac:unarmored defense godslayer" value="ac:unarmored defense barbarian:base" />
+      <stat name="ac:unarmored defense godslayer" value="ac:unarmored defense barbarian:strength" />
+      <stat name="ac:unarmored defense godslayer" value="ac:unarmored defense barbarian:constitution" />
+
+      <stat name="ac:calculation" value="ac:unarmored defense godslayer" bonus="calculation" equipped="[armor:none]" alt="Unarmored Defense (Godslayer)" />
     </rules>
   </element>
-  <element name="Second Wind" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_SECONDWIND">
+  <element name="Decidal Path" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_DECIDALPATH">
     <description>
-      <p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.</p>
-      <p class="indent">Once you use this feature, you must finish a short or long rest before you can use it again.</p>
-    </description>
-    <sheet action="Bonus Action" usage="1/Short Rest">
-      <description>You regain 1d10+{{level:fighter}} hp.</description>
-    </sheet>
-  </element>
-  <element name="Action Surge" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_ACTIONSURGE">
-    <description>
-      <p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</p>
-      <p class="indent">Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>
-    </description>
-    <sheet usage="1/Short Rest">
-      <description>On your turn, you can take one additional action on top of your regular action.</description>
-      <description usage="2/Short Rest" level="17">On your turn, you can take one additional action on top of your regular action.</description>
-    </sheet>
-  </element>
-  <element name="Martial Archetype" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_MARTIALARCHETYPE">
-    <description>
-      <p>At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The Champion archetype is detailed at the end of the class description; see the Player’s Handbook for information on other martial archetypes. Your archetype grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.</p>
+      <p>Just as gods are varied in their powers and domains, a godslayer must be adapted to fighting the particular target of their animosity. This can range from tactics to elemental advantages. At 3rd level, choose a subclass feature from Weave Slasher, Ichor Drinker, Divine Slayer, Faith Crusher and Armageddon Survivor, detailed towards the bottom of the class description. You gain features from your subclass at 3rd, 9th, 13th and 18th levels.</p>
     </description>
     <sheet display="false" />
     <rules>
-      <select type="Archetype" name="Martial Archetype" supports="Martial Archetype" level="3" />
+      <select type="Archetype" name="Decidal Path" supports="Decidal Path" level="3" />
     </rules>
   </element>
-  <element name="Ability Score Improvement" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_FIGHTER">
+  <element name="Adding Scars" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_ADDINGSCARS">
+    <description>
+      <p>The trait of one who kills gods is tenacity; an unwillingness to die. Starting 3rd level, you become able to reduce the damage you take by breaking fate itself so the event was changed. </p>
+    </description>
+    <sheet>
+      <description>When you take damage, without any action, you may reduce the damage as shown on the Damage Reduction column of the godslayer table.</description>
+    </sheet>
+  </element>
+  <element name="Ability Score Improvement" type="Class Feature" source="Abel Lagonell" id="ID_WOTC_PHB_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_GODSLAYER">
     <compendium display="false" />
     <description>
-      <p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
+      <p>When you reach 4th level, and again at 6th, 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
     </description>
     <sheet display="false" />
     <rules>
-      <select type="Class Feature" name="Improvement Option (Fighter 4)" supports="Improvement Option,Fighter,4" level="4" />
-      <select type="Class Feature" name="Improvement Option (Fighter 6)" supports="Improvement Option,Fighter,6" level="6" />
-      <select type="Class Feature" name="Improvement Option (Fighter 8)" supports="Improvement Option,Fighter,8" level="8" />
-      <select type="Class Feature" name="Improvement Option (Fighter 12)" supports="Improvement Option,Fighter,12" level="12" />
-      <select type="Class Feature" name="Improvement Option (Fighter 14)" supports="Improvement Option,Fighter,14" level="14" />
-      <select type="Class Feature" name="Improvement Option (Fighter 16)" supports="Improvement Option,Fighter,16" level="16" />
-      <select type="Class Feature" name="Improvement Option (Fighter 19)" supports="Improvement Option,Fighter,19" level="19" />
+      <select type="Class Feature" name="Improvement Option (Godslayer 4)" supports="Improvement Option,Godslayer,4" level="4" />
+      <select type="Class Feature" name="Improvement Option (Godslayer 6)" supports="Improvement Option,Godslayer,6" level="6" />
+      <select type="Class Feature" name="Improvement Option (Godslayer 8)" supports="Improvement Option,Godslayer,8" level="8" />
+      <select type="Class Feature" name="Improvement Option (Godslayer 12)" supports="Improvement Option,Godslayer,12" level="12" />
+      <select type="Class Feature" name="Improvement Option (Godslayer 16)" supports="Improvement Option,Godslayer,16" level="16" />
+      <select type="Class Feature" name="Improvement Option (Godslayer 19)" supports="Improvement Option,Godslayer,19" level="19" />
     </rules>
   </element>
-  <element name="Extra Attack" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_EXTRAATTACK">
+  <element name="Extra Attack" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_EXTRAATTACK">
     <description>
       <p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
-      <p class="indent">The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+      <p class="indent">The number of attacks increases to three when you reach 14th level in this class.</p>
     </description>
     <sheet>
       <description level="5">You can attack twice, instead of once, whenever you take the Attack action on your turn</description>
       <description level="11">You can attack three times, instead of once, whenever you take the Attack action on your turn</description>
-      <description level="20">You can attack four times, instead of once, whenever you take the Attack action on your turn</description>
     </sheet>
     <rules>
       <stat name="extra attack:count" value="2" level="5" bonus="extra attack" />
-      <stat name="extra attack:count" value="3" level="11" bonus="extra attack" />
-      <stat name="extra attack:count" value="4" level="20" bonus="extra attack" />
+      <stat name="extra attack:count" value="3" level="14" bonus="extra attack" />
     </rules>
   </element>
-  <element name="Indomitable" type="Class Feature" source="Player’s Handbook" id="ID_WOTC_PHB_CLASS_FEATURE_INDOMITABLE">
+  <element name="Indomitable Will" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_INDOMITABLEWILL">
     <description>
-      <p>Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.</p>
-      <p class="indent">You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.</p>
+      <p>At 2nd level, the godslayers resolve makes it impossible to domineer their minds or control their fate, which is rife with unpredictable violence.</p>
+      <p class="indent">Starting 6th level, you become immune to all effects of divination magic which would target you, like mind spike and hunter's mark.</p>
     </description>
-    <sheet usage="{{indomitable:usage}}/Long Rest">
-      <description>You can reroll a saving throw that you fail. If you do so, you must use the new roll.</description>
+    <sheet>
+      <description level="2"> You are immune to effects of divination magic which would read your mind or detect your location.</description>
+      <description level="6"> You are immune to effects of divination magic which would read your mind or detect your location.Starting 6th level, you become immune to all effects of divination magic which would target you, like mind spike and hunter's mark.</description>
+    </sheet>
+  </element>
+  <element name="Rebuke" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_REBUKE">
+    <description>
+      <p>Starting at 5th level,you reject defeat with all your being, unwilling to rest until your thirst for vengeance or anger has been quenched.</p>
+    </description>
+    <sheet>
+      <description usage="1/shortrest">If you would drop to 0 hit points, you may instead have 1 hit point remaining. You must finish a short or long rest before using this feature again.</description>
+    </sheet>
+  </element>
+  <element name="Visionary" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_VISIONARY">
+    <description>
+      <p>Starting at 7th level,as one who breaks the iron grip of the divine in this world, you can perceive beyond the normal mortal sights.</p>
+    </description>
+    <sheet>
+      <description>You gain 60 feet of blindsight.</description><!--Fix this to correctly attribute with what Joseph Has-->
+    </sheet>
+  </element>
+  <element name="Suvivor" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_SURVIVOR">
+    <description>
+      <p>Starting at 10th level,godslayers can return even from the brink of death due to their pure overpowering will.</p>
+    </description>
+    <sheet>
+      <description>You gain advantage in death saving throws</description>
+    </sheet>
+  </element>
+  <element name="Apostatic Weapon" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_APOSTATICWEAPON">
+    <description>
+      <p>Starting at 11th level,you cannot be deterred by any god and you will harm all of them and murder them brutally once you get your hands on them, particularly the one which wronged you the most, as well as their ilk. Choose one creature type from celestial, fiend, humanoid, fey, or aberration. </p>
+    </description>
+    <sheet>
+      <description>You have advantage on all attack rolls against chosen creature type. When you land a critical hit on your chosen creature type, you may deal the double the maximum damage instead of rolling.</description>
     </sheet>
     <rules>
-      <stat name="indomitable:usage" value="1" level="9" />
-      <stat name="indomitable:usage" value="1" level="13" />
-      <stat name="indomitable:usage" value="1" level="17" />
+      <select type="Class Feature" name="Favored Enemy" supports="Favored Enemy" level="11" />
     </rules>
   </element>
+  <element name="Surge" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_SURGE">
+    <description>
+      <p>At level 14,you have a well of power within you which can reverse heavy injuries at will in a pinch.</p>
+    </description>
+    <sheet>
+      <description usage="shortrest">On your turn, you can use a bonus action to regain hit points equal to 4d8 + your godslayer level.</description>
+    </sheet>
+  </element>
+  <element name="Persevere" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_PERSEVERE">
+    <description>
+      <p>At level 15,after being smacked down so many times, you no longer quite feel the pain. All the carving and goring done to your body shows just how inured to pain, ascended from mortality, you have become. </p>
+    </description>
+    <sheet>
+      <description>You gain resistance against one damage type of your choice from bludgeoning, piercing or slashing.</description>
+    </sheet>
+    <rules>
+      <select type="Class Feature" name="Resistance" supports="Resistance" level="15"/>
+    </rules>
+  </element>
+  <element name="Transparency" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_TRANSPARENCY">
+    <description>
+      <p>At 17th level,the world made by gods is laid bare before you, and you see through all its lies.</p>
+    </description>
+    <sheet>
+      <description>You gain 120 feet of truesight.</description>
+      <!--Fix this to correctly attribute with what Joseph Has-->
+    </sheet>
+  </element>
+  <element name="Ascended Battler" type="Class Feature" source="Abel Lagonell" id="ID_AJL_HOME_CLASS_FEATURE_ASCENDEDBATTLER">
+    <description>
+      <p>At 20th level,your feats against the divine render you like one of their ranks, with an incredible form which renders the weak unable to raise a finger against you. Your raw power and strength exudes like a pressuring aura. </p>
+    </description>
+    <sheet>
+      <description>You gain 10 feet bonus to your movement speed.</description>
+      <description>Additionally, when you are attacked, the creature making that attack must make a Wisdom saving throw with a DC equal to 8 + your Strength modifier + your proficiency bonus. On a failure, the attacker must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours. Creatures are aware of this effect before attacking you, as your aura manifests in a shimmering golden form around you. Creatures with an Intelligence score of 3 or less are immune to this effect.</description>
+    </sheet>
+  </element>
+
+
+
+
+
+
+
+
+
+
+
+
 </elements>
